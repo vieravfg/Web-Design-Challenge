@@ -1,0 +1,71 @@
+.bg-dark {
+  background-color: #d0515e!important;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #17a2b8;
+  background-color: rgb(180 205 232 / 25%);
+  }
+.container {
+    margin-top: 60px;
+}
+.navbar-light .navbar-brand {
+  color: #f8f9fa;
+  font-family: emoji;
+  font-weight: bold;
+}
+.navbar-brand {
+  background: #e04755;
+}
+.jumbotron {
+    /* padding: 2rem 1rem; */
+    margin-bottom: 2rem;
+    background-color: #f8f9fa;
+}
+ /* Selecting elements by ID */
+  #introparagraph{
+    color: #139812;
+     }
+#parent {
+  display: flex;
+}
+#narrow {
+  background: #ffffff;
+  /* Just so it's visible */
+}
+#wide {
+background: #ffffff;
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width:768px) {  
+  .sm {color:red;font-weight:bold;}
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 260px) and (max-width:300px) {  
+ .md {color:red;font-weight:bold;}
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width:1200px) { 
+ .lg {color:red;font-weight:bold;}
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    .xl {color:red;font-weight:bold;}
+}
+
+@media (min-width: 300px) and (max-width:768px) {
+.col-xs-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;}
+    }
