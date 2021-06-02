@@ -8,19 +8,19 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #17a2b8;
-  background-color: rgb(180 205 232 / 25%);
+  color: #28a745;
+  background-color: rgb(25 177 157);
   }
 .container {
     margin-top: 60px;
 }
 .navbar-light .navbar-brand {
-  color: #f8f9fa;
+  color: #ffffff;
   font-family: emoji;
   font-weight: bold;
 }
 .navbar-brand {
-  background: #e04755;
+  background: #ec6f7a;
 }
 .jumbotron {
     /* padding: 2rem 1rem; */
@@ -41,6 +41,9 @@ body {
 #wide {
 background: #ffffff;
 }
+
+
+
 
 @media (min-width: 300px) and (max-width:768px) {
 .col-xs-3 {
