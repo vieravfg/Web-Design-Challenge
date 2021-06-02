@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-* For this homework I am submitting my index.html and a bonus1.html.
+* For this homework I am submitting an index.html and a bonus1.html.
 ## Web Design Homework - INSTRUCTIONS
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
